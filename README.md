@@ -1,7 +1,7 @@
 # Esto es un titulo
 ## Esto es un subtitulo
 ### Esto es un subtitulo pequeño
-# Hoy es 27 de marzo
+# clase basica git 
 **Maria Jose**
 # Codigo de inicio
 > Observaciones aqui
