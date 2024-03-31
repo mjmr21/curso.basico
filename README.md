@@ -1,7 +1,7 @@
 # Esto es un titulo
 ## Esto es un subtitulo
 ### Esto es un subtitulo pequeño
-# clase basica git 
+# clase basica git y github
 **Maria Jose**
 # Codigo de inicio
 > Observaciones aqui
